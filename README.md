@@ -6,7 +6,8 @@
 
 I build AI systems that move beyond the notebook—connecting **computer vision, generative AI, and conversational agents** to practical software products.
 
-**[Explore my interactive portfolio →](https://minhajul-ai-portfolio.pages.dev/)**  
+**[Explore my interactive portfolio →](https://minhajul-ai-portfolio.pages.dev/)**
+
 Project case studies · Systems in motion · Research · Career journey
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-ADFF2F?style=for-the-badge&logo=googlechrome&logoColor=black)](https://minhajul-ai-portfolio.pages.dev/)

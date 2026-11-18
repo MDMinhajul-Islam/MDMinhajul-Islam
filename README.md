@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Md. Minhajul Islam 👋
+![Animated typing: Hi, I'm Md. Minhajul Islam 👋](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=ADFF2F&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Hi%2C+I%27m+Md.+Minhajul+Islam+%F0%9F%91%8B)
 
-### AI Engineer Intern at NEXVIX · CSE Graduate, North South University
+### Research Assistant at North South University | Former AI Engineer Intern at NEXVIX
+
+#### AI & Software Engineer · CSE Graduate · AI Researcher
 
 I build AI systems that move beyond the notebook—connecting **computer vision, generative AI, and conversational agents** to practical software products.
 
@@ -16,9 +18,10 @@ I build AI systems that move beyond the notebook—connecting **computer vision,
 
 ## About me
 
-- **Currently:** AI Engineer Intern at **NEXVIX**, building AI capabilities and software workflows for product use.
+- **Currently:** Research Assistant at **North South University**, working on computer vision, graph-based self-supervised learning, and deep learning research.
+- **Previously:** AI Engineer Intern at **NEXVIX**, where I developed AI-powered applications, conversational agents, and software workflows for real-world products.
 - **Education:** B.Sc. in Computer Science & Engineering, **North South University** (2022–2026).
-- **Research:** Lightweight diffusion, image inpainting, segmentation, and object removal; completed a research internship in 2026.
+- **Research:** Graph neural networks, self-supervised learning, CLIP, lightweight diffusion models, image inpainting, segmentation, and object removal.
 - **Engineering interests:** Tool-using AI agents, real-time applications, secure APIs, and reliable data-backed systems.
 - **Based in:** Dhaka, Bangladesh; interested in AI/software engineering opportunities and research collaboration.
 
